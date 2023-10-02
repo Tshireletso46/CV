@@ -2,6 +2,7 @@
 <tr>
 
 ### Job Title
+*Junior Software Developer*
 I am a passionate junior software developer with a strong curiosity for technology and a drive to create innovative solutions. As I continue my journey in the tech environment, I am open to new challenges and opportunities that will allow me to grow both technically and professionally. I am driven by a passion for problem-solving, a desire to learn, and a commitment to delivering software solutions that make a positive difference in the world with the hands-on experience that I have gained in various programming languages and technologies, including JavaScript, HTML/CSS, React.js, Next.js and Mongodb/Firebase.
 
 ![Phone Icon](https://img.icons8.com/ios-filled/20/000000/phone.png)   **+27 65 895 1817**
