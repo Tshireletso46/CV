@@ -25,7 +25,7 @@ I am a passionate junior software developer with a strong curiosity for technolo
 
 ### CodeSpace Academy
 **Software Development**  
-*Graduated: May 2020*  
+*To date*  
 - Completed comprehensive coursework in HTML, CSS, and JavaScript.
 - Collaborated on a team project to develop a responsive website for a local business.
 - Met with industry partners to prepare me for the real world day to day job.
@@ -38,8 +38,8 @@ I am a passionate junior software developer with a strong curiosity for technolo
 
 ### H.F Tlou High School
 **Matric**
-- Matriculated in 2020
-- Completed my matric using the commerece subjects which are Accounting, Business Management, Economics and Mathematics
+*Matriculated in 2020*
+- Completed my matric using the commerece subjects which are Accounting, Business Management, Economics and Mathematics.
 
 
 <h4> Connect with me🤝: <h4>
