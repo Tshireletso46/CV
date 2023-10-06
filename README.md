@@ -46,6 +46,7 @@ I am a passionate junior software developer with a strong curiosity for technolo
 
 ### H.F Tlou High School
 **Matric**
+
 *Matriculated in 2020*
 - Completed my matric using the commerece subjects which are Accounting, Business Management, Economics and Mathematics.
 
